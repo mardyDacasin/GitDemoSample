@@ -1,2 +1,2 @@
 # GitDemoSample
-It is use for demo purposes
+It is use for demo 
